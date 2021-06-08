@@ -25,7 +25,7 @@ int main()
    if(flag == 0)
       printf("%d is a prime number",n);
     else
-     printf("%dis not a prime number",n);
+     printf("%d is not a prime number",n);
     }
 
     getch();
